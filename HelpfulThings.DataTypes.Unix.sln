@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulThings.DataTypes.Unix", "HelpfulThings.DataTypes.Unix\HelpfulThings.DataTypes.Unix.csproj", "{A331E38A-CD4F-4FC0-AF48-89496A454509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulThings.DataTypes.Unix.Test", "HelpfulThings.DataTypes.Unix.Test\HelpfulThings.DataTypes.Unix.Test.csproj", "{AEDFA4DC-CE7E-4B2F-9C72-CB6C59EB1F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A331E38A-CD4F-4FC0-AF48-89496A454509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A331E38A-CD4F-4FC0-AF48-89496A454509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A331E38A-CD4F-4FC0-AF48-89496A454509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A331E38A-CD4F-4FC0-AF48-89496A454509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDFA4DC-CE7E-4B2F-9C72-CB6C59EB1F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDFA4DC-CE7E-4B2F-9C72-CB6C59EB1F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDFA4DC-CE7E-4B2F-9C72-CB6C59EB1F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDFA4DC-CE7E-4B2F-9C72-CB6C59EB1F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

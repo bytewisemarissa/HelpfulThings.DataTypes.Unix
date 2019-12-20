@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a14db558-2357-4739-8393-95f094f75527" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F22993E-2191-4253-8BC4-D1A5A5B4B7F2/ac/988071d0/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/UnixTimeStamp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampKnownDateTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/1c/bd712047/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampIntegerMath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampEquality.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.UnixTimestamp/Class1.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.UnixTimestamp.Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.UnixTimestamp/UnixTimeStamp.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.UnixTimestamp.Test/BasicTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.UnixTimestamp.Test/KnownDateTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/Timestamp-KnownDateTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/UnixTimeStamp.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/TimestampEquality.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampKnownDateTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampIntegerMath.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampEquality.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VEqtgL2KTbVf070KmagPLTeLq5" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a14db558-2357-4739-8393-95f094f75527" name="Default Changelist" comment="" />
+      <created>1576828817958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576828817958</updated>
+      <workItem from="1576828819345" duration="10301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="RiderUnitTests">
+        <watch expression="DateTime.Ticks - BaseDate.Ticks" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

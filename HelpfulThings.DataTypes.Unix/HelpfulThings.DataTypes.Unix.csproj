@@ -4,6 +4,17 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <AssemblyName>HelpfulThings.DataTypes.Unix</AssemblyName>
         <RootNamespace>HelpfulThings.DataTypes.Unix</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Helpful Things Unix Data Types</Title>
+        <Copyright>2019</Copyright>
+        <PackageProjectUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix</PackageProjectUrl>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageIcon>icon.png</PackageIcon>
+        <RepositoryUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix.git</RepositoryUrl>
+        <RepositoryType>Github</RepositoryType>
     </PropertyGroup>
-
+    <ItemGroup>
+        <None Include="NugetSupport\icon.png" Pack="true" PackagePath="$(PackageIcon)"/>
+        <None Include="NugetSupport\LICENSE" Pack="true" PackagePath="$(PackageLicenceFile)"/>
+    </ItemGroup>
 </Project>

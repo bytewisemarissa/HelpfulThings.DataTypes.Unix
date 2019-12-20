@@ -12,10 +12,14 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="HelpfulThings.DataTypes.Unix" t="IncludeRecursive">
         <e p="HelpfulThings.DataTypes.Unix.csproj" t="IncludeRecursive" />
+        <e p="NugetSupport" t="Include">
+          <e p="LICENSE" t="Include" />
+          <e p="icon.png" t="Include" />
+        </e>
         <e p="UnixTimeStamp.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netstandard2.1" t="Include">
               <e p="HelpfulThings.DataTypes.Unix.AssemblyInfo.cs" t="Include" />
             </e>
@@ -31,7 +35,7 @@
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.0" t="Include">
               <e p="HelpfulThings.DataTypes.Unix.Test.AssemblyInfo.cs" t="Include" />
             </e>

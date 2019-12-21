@@ -29,6 +29,17 @@ namespace HelpfulThings.DataTypes.Unix
             DateTime = BaseDate.AddSeconds(ticks);
         }
 
+        public UnixTimeStamp(long ticks)
+        {
+            if (ticks > int.MaxValue || ticks < int.MinValue)
+            {
+                throw new ArgumentException(
+                    $"UnixTimeStamps can not represent a value under {int.MaxValue} or a value over {int.MinValue}.");
+            }
+
+            DateTime = BaseDate.AddSeconds(ticks);
+        }
+
         public UnixTimeStamp(DateTime dateTime)
         {
             if (dateTime < Minimum || dateTime > Maximum)

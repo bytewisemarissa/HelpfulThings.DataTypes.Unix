@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace HelpfulThings.DataTypes.Unix.Test
+namespace HelpfulThings.DataTypes.Unix.Test.UnixTimestamp
 {
     public class TimestampIntegerMath
     {

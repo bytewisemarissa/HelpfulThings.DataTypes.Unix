@@ -12,9 +12,10 @@
         <PackageIcon>icon.png</PackageIcon>
         <RepositoryUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix.git</RepositoryUrl>
         <RepositoryType>Github</RepositoryType>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
     <ItemGroup>
-        <None Include="NugetSupport\icon.png" Pack="true" PackagePath="$(PackageIcon)"/>
-        <None Include="NugetSupport\LICENSE" Pack="true" PackagePath="$(PackageLicenceFile)"/>
+        <None Include="NugetSupport\icon.png" Pack="true" PackagePath="$(PackageIcon)" />
+        <None Include="NugetSupport\LICENSE" Pack="true" PackagePath="$(PackageLicenceFile)" />
     </ItemGroup>
 </Project>

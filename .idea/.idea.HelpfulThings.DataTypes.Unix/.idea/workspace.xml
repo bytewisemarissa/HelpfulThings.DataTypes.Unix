@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521057a5-0883-4515-b0cb-c81c7ebc7946" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/ConversionCastingTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampConstructorTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HelpfulThings.DataTypes.Unix/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HelpfulThings.DataTypes.Unix/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HelpfulThings.DataTypes.Unix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HelpfulThings.DataTypes.Unix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampEquality.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampEqualityTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampIntegerMath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampIntegerMathTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/HelpfulThings.DataTypes.Unix.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/HelpfulThings.DataTypes.Unix.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/UnixTimeStamp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/UnixTimeStamp.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +22,26 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/UnixTimeStamp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampConstructorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/ConversionCastingTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampKnownDateTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampIntegerMathTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampEqualityTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/HelpfulThings.DataTypes.Unix.csproj" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampIntegerMath.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampEquality.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampConstructors.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampKnownDate.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampKnownDateTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampIntegerMathTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampEqualityTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/TimestampConstructorTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/ConverstionCastingTests.cs" />
+        <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix.Test/UnixTimestamp/ConversionCastingTests.cs" />
         <option value="$PROJECT_DIR$/HelpfulThings.DataTypes.Unix/UnixTimeStamp.cs" />
       </list>
     </option>
@@ -57,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576869873744</updated>
-      <workItem from="1576869874926" duration="3922000" />
+      <workItem from="1576869874926" duration="7285000" />
     </task>
     <servers />
   </component>

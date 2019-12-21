@@ -29,8 +29,10 @@
       <e p="HelpfulThings.DataTypes.Unix.Test" t="IncludeRecursive">
         <e p="HelpfulThings.DataTypes.Unix.Test.csproj" t="IncludeRecursive" />
         <e p="UnixTimestamp" t="Include">
-          <e p="TimestampEquality.cs" t="Include" />
-          <e p="TimestampIntegerMath.cs" t="Include" />
+          <e p="ConversionCastingTests.cs" t="Include" />
+          <e p="TimestampConstructorTests.cs" t="Include" />
+          <e p="TimestampEqualityTests.cs" t="Include" />
+          <e p="TimestampIntegerMathTests.cs" t="Include" />
           <e p="TimestampKnownDateTests.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />

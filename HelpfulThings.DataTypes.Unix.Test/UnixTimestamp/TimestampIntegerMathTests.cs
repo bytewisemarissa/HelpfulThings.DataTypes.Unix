@@ -3,7 +3,7 @@ using Xunit;
 
 namespace HelpfulThings.DataTypes.Unix.Test.UnixTimestamp
 {
-    public class TimestampIntegerMath
+    public class TimestampIntegerMathTests
     {
         [Fact]
         public void UnixTimestampIntegerAdditionLeftHand()

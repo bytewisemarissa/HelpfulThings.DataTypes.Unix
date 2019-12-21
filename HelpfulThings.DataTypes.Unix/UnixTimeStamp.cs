@@ -9,7 +9,7 @@ namespace HelpfulThings.DataTypes.Unix
         public static readonly DateTime Maximum = BaseDate.AddSeconds(int.MaxValue);
 
         public DateTime DateTime { get; }
-        
+
         public UnixTimeStamp(string ticksString)
         {
             try
@@ -47,7 +47,7 @@ namespace HelpfulThings.DataTypes.Unix
                 throw new ArgumentException($"UnixTimeStamps can not represent a time before {Minimum} or a time after {Maximum}.");
             }
             
-            DateTime = dateTime.ToUniversalTime();
+            DateTime = dateTime;
         }
 
         public override bool Equals(object obj)
@@ -146,6 +146,10 @@ namespace HelpfulThings.DataTypes.Unix
         {
             return new UnixTimeStamp(left - right.ToTimestampValue());
         }
+        
+        public static implicit operator UnixTimeStamp(int value) => new UnixTimeStamp(value);
+        public static implicit operator UnixTimeStamp(DateTime value) => new UnixTimeStamp(value);
+        public static explicit operator UnixTimeStamp(long value) => new UnixTimeStamp(value);
 
         public override int GetHashCode()
         {

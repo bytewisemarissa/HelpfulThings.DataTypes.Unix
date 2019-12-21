@@ -3,7 +3,7 @@ using Xunit;
 
 namespace HelpfulThings.DataTypes.Unix.Test.UnixTimestamp
 {
-    public class TimestampEquality
+    public class TimestampEqualityTests
     {
         [Fact]
         public void TimestampEqualitySelf()

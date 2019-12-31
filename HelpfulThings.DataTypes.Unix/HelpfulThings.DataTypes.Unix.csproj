@@ -12,7 +12,7 @@
         <PackageIconUrl>https://i.imgur.com/qLyye40.png</PackageIconUrl>
         <RepositoryUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix.git</RepositoryUrl>
         <RepositoryType>Github</RepositoryType>
-        <PackageVersion>1.0.3</PackageVersion>
+        <PackageVersion>1.0.5</PackageVersion>
     </PropertyGroup>
     <ItemGroup>
         <None Include="NugetSupport\icon.png"  Pack="true" PackagePath="$(PackageIcon)" />

@@ -10,7 +10,6 @@
         <Authors>Marissa</Authors>
         <PackageProjectUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix</PackageProjectUrl>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
-        <PackageLicenseUrl>https://raw.githubusercontent.com/paranoidTwitch/HelpfulThings.DataTypes.Unix/master/LICENSE</PackageLicenseUrl>
         <PackageIcon>icon.png</PackageIcon>
         <PackageIconUrl>https://i.imgur.com/qLyye40.png</PackageIconUrl>
         <RepositoryUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix.git</RepositoryUrl>

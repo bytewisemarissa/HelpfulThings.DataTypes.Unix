@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <AssemblyName>HelpfulThings.DataTypes.Unix</AssemblyName>
@@ -7,17 +6,16 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>Helpful Things Unix Data Types</Title>
         <Copyright>2019</Copyright>
-        <Authors>Marissa</Authors>
         <PackageProjectUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix</PackageProjectUrl>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
         <PackageIcon>icon.png</PackageIcon>
         <PackageIconUrl>https://i.imgur.com/qLyye40.png</PackageIconUrl>
         <RepositoryUrl>https://github.com/paranoidTwitch/HelpfulThings.DataTypes.Unix.git</RepositoryUrl>
         <RepositoryType>Github</RepositoryType>
-        <PackageVersion>1.0.4</PackageVersion>
+        <PackageVersion>1.0.3</PackageVersion>
     </PropertyGroup>
     <ItemGroup>
-        <None Include="NugetSupport\icon.png" />
-        <None Include="NugetSupport\LICENSE" />
+        <None Include="NugetSupport\icon.png"  Pack="true" PackagePath="$(PackageIcon)" />
+        <None Include="NugetSupport\LICENSE" Pack="true" PackagePath="$(PackageLicenceFile)" />
     </ItemGroup>
 </Project>
